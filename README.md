@@ -1,4 +1,4 @@
-# Project: Can you unscramble a blurry image? 
+# Project 3: Can you unscramble a blurry image? 
 ![image](figs/example2.png)
 
 ### [Full Project Description](doc/project3_desc.md)
